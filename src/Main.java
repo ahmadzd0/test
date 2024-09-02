@@ -11,6 +11,7 @@ public class Main {
         System.out.println(5<5);
         System.out.println("x+y="+ result);
         System.out.println(name+name2);
+        System.out.println("new changes");
 
 
 
